@@ -1,0 +1,17 @@
+description: R01A
+github_branch: R01A
+github_description: R01A
+github_repo: R01
+github_url: https://github.com/mlab-modules/R01
+homepage: false
+images:
+- doc/img/R01A.jpg
+- doc/img/R01A_1.jpg
+- doc/img/R01A_2.jpg
+- doc/img/R01A_small.jpg
+- doc/img/R01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: R01
+updated: '2023-09-17T11:30:17.799651+00:00'
