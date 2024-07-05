@@ -1,6 +1,6 @@
-description: R01A
+description: Five SMD resistors in 0805 package
 github_branch: R01A
-github_description: R01A
+github_description: Five SMD resistors in 0805 package
 github_repo: R01
 github_url: https://github.com/mlab-modules/R01
 homepage: false
@@ -12,6 +12,8 @@ images:
 - doc/img/R01A_QRcode.png
 mark: 50
 status: 2
-tags: []
+tags:
+- mlab-module
+- resistance
 title: R01
-updated: '2024-07-05T17:33:32.085977+00:00'
+updated: '2024-07-05T17:34:09.627027+00:00'
