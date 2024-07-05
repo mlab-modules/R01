@@ -5,8 +5,8 @@ github_repo: R01
 github_url: https://github.com/mlab-modules/R01
 homepage: false
 images:
-- doc/img/R01A_2.jpg
 - doc/img/R01A_small.jpg
+- doc/img/R01A_2.jpg
 - doc/img/R01A_1.jpg
 - doc/img/R01A.jpg
 - doc/img/R01A_QRcode.png
@@ -14,4 +14,4 @@ mark: 50
 status: 2
 tags: []
 title: R01
-updated: '2024-05-15T11:34:49.884445+00:00'
+updated: '2024-07-05T17:33:01.178121+00:00'
